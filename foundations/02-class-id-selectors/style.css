@@ -1,0 +1,23 @@
+.pink {
+    background-color: hsl(0, 100%, 81%);
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#blue {
+    color: hsl(251, 100%, 50%);
+    font-size: 36px;
+}
+
+#green {
+    background-color: hsl(138, 100%, 64%);
+    font-weight: bold;
+
+}
+
+.change-font-size {
+    font-size: 24px;
+}
+
+div {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
