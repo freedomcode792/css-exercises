@@ -24,3 +24,33 @@ img {
   justify-content: center;
   background: #eee;
 }
+
+/* body {
+  display: flex;
+  justify-content: center;
+} */
+
+
+
+.info-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.plant-info-section {
+  display: flex;
+  gap: 52px;
+}
+
+.plant-info {
+  width: 200px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.title {
+  margin-bottom: 35px;;
+}
