@@ -67,3 +67,35 @@ button.cancel {
   border: 1px solid #ddd;
   color: royalblue;
 }
+
+
+/*myedit*/
+
+.modal {
+  padding: 17px;
+  display: flex;
+}
+
+.top  {
+  display: flex;
+}
+
+.icon {
+  flex-shrink: 0;
+  margin-right: 17px;
+}
+
+.header {
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.close-button {
+  margin-left: auto;
+}
+
+.text {
+  margin-bottom: 16px;
+}
+
