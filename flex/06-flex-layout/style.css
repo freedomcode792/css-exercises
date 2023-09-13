@@ -25,3 +25,40 @@ input {
   width: 400px;
   margin-bottom: 16px;
 }
+
+
+/*myedit*/
+
+* {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  text-decoration: none;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.header, .footer, .left-links, .right-links {
+  display: flex;
+  gap: 15px;
+  justify-content: space-between;
+}
+
+.header, .footer {
+  padding: 12px 18px;
+  
+}
+
+.footer {
+  background-color: #eeeeee;
+}
+
+button {
+  padding: 10px 14px;
+  font-weight:bold;
+}
